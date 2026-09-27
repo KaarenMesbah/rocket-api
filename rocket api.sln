@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rocket api", "rocket api\rocket api.csproj", "{B09A3825-07BC-48AA-B4D2-67220422E21A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B09A3825-07BC-48AA-B4D2-67220422E21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09A3825-07BC-48AA-B4D2-67220422E21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09A3825-07BC-48AA-B4D2-67220422E21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09A3825-07BC-48AA-B4D2-67220422E21A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F5A4FEF-1BBE-49C4-AE19-4F6A622FEB10}
+	EndGlobalSection
+EndGlobal

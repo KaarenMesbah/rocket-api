@@ -1,0 +1,63 @@
+
+10bd2261dcb8fa595201f8d38e520470 
+
+38094795
+
+149.154.167.40:443
+
+VirtualBox (free)
+
+VMware Player (free)
+
+npm install -g cordova@7.1.0
+
+There are tweaks like:
+
+    Insomnia
+
+    Backgrounder
+
+    KeepAlive
+
+    NoSuspend
+
+These tweaks prevent apps from being suspended.
+
+If you install one of these, then:
+✔️ Your Cordova app can keep running in the background
+✔️ It can poll your API
+✔️ It can trigger local notifications
+✔️ Even when the screen is off
+
+This is the only way to get real background behavior on iOS 10 with Cordova.
+To build with Xcode 8.3.3 (the last version that supports iOS 10 SDK and 32‑bit builds), you need:
+
+    macOS Sierra (10.12) ✅
+
+    macOS High Sierra (10.13) ✅
+
+Both of these can run Xcode 8.3.3 without issues. Anything newer (Mojave, Catalina, etc.) will not let you install Xcode 8.3.3, and anything older (El Capitan) is too outdated for Cordova.
+🟦 Recommended choice
+
+    macOS High Sierra (10.13.6) → Best 
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAyMEdY1aR+sCR3ZSJrtztKTKqigvO/vBfqACJLZtS7QMgCGXJ6XIR
+yy7mx66W0/sOFa7/1mAZtEoIokDP3ShoqF4fVNb6XeqgQfaUHd8wJpDWHcR2OFwv
+plUUI1PLTktZ9uW2WE23b+ixNwJjJGwBDJPQEQFBE+vfmH0JP503wr5INS1poWg/
+j25sIWeYPHYeOrFp/eXaqhISP6G+q2IeTaWTXpwZj4LzXq5YOpk4bYEQ6mvRq7D1
+aHWfYmlEGepfaYR8Q0YqvvhYtMte3ITnuSJs171+GDqpdKcSwHnd6FudwGO4pcCO
+j4WcDuXc2CTHgH8gFTNhp/Y8/SpDOhvn9QIDAQAB
+-----END RSA PUBLIC KEY-----
+
+
+
+149.154.167.50:443
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA6LszBcC1LGzyr992NzE0ieY+BSaOW622Aa9Bd4ZHLl+TuFQ4lo4g
+5nKaMBwK/BIb9xUfg0Q29/2mgIR6Zr9krM7HjuIcCzFvDtr+L0GQjae9H0pRB2OO
+62cECs5HKhT5DZ98K33vmWiLowc621dQuwKWSQKjWf50XYFw42h21P2KXUGyp2y/
++aEyZ+uVgLLQbRA1dEjSDZ2iGRy12Mk5gpYc397aYp438fsJoHIgJ2lgMv5h7WY9
+t6N/byY9Nw9p21Og3AoXSL2q/2IJ1WRUhebgAdGVMlV1fkuOQoEzR7EdpqtQD9Cs
+5+bfo3Nhmcyvk5ftB0WkJ9z6bNZ7yxrP8wIDAQAB
+-----END RSA PUBLIC KEY-----

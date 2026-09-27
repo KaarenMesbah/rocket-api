@@ -1,0 +1,6 @@
+@rocket_api_HostAddress = http://localhost:7777
+
+GET {{rocket_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
